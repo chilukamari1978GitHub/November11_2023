@@ -1,0 +1,43 @@
+
+The purpose of the Daily Scrum is to inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary, adjusting the upcoming planned work.
+The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. Daily Scrum is time boxed so that focus is on the current day, it is not a status report meeting. 
+To reduce complexity, it is held at the same time and place every working day of the Sprint. 
+If the Product Owner or Scrum Master are actively working on items in the Sprint Backlog, they participate as Developers.
+The Developers can select whatever structure and techniques they want, as long as their Daily Scrum focuses on progress toward the Sprint Goal and produces an actionable plan for the next day of work. This creates focus and improves self-management.
+
+
+Daily Scrums improve communications, identify impediments, promote quick decision-making, and consequently eliminate the need for other meetings. 
+The Daily Scrum is not the only time Developers are allowed to adjust their plan. They often meet throughout the day for more detailed discussions about adapting or re-planning the rest of the Sprint’s work. 
+The Developers or team members often meet immediately after the Daily Scrum for detailed discussions, or to adapt, or replan, the rest of the Sprint’s work.
+
+
+Developers of the Scrum Team's Daily Scrum is consistently taking longer than 15 minutes. Which statement best describes what should be done? (select 1)
+Daily Scrum is a daily 15-minute time-boxed meeting -  Developers briefly share their progress and plans for the day. The goal of Daily Scrum is to ensure that everyone is aligned on the goals of the Sprint, identify and address any obstacles, and improve communication and collaboration among the Developers.
+SM facitilitate to happen dev held and timebox
+
+
+The Daily Scrum optimizes the probability that the Developers will meet the Sprint Goal. Every day, the Developers understands how it intends to work together as a self-managing team to accomplish the Sprint Goal and create the anticipated Increment by the end of the Sprint. 
+
+
+
+The Daily Scrum differs from a Status Meeting in the following aspects-
+- Daily Scrum promotes collaboration. When a Daily Scrum is treated as a status meeting, the Developers provide a status update to someone else.
+- Daily Scrum enables focus on achieving an outcome. In a status meeting, individuals give updates on the tasks or items they have each worked on, and there is likely not 
+focus on achieving a valuable business outcome
+- Daily Scrum promotes collaboration. In my experience with status meetings, there is not a lot of collaboration.  They tend to focus on individual contributions and coordinating work.
+The structure of the meeting is set by the Developers and can be conducted in different ways provided they focus on progress toward the Sprint Goal. This creates focus and 
+improves self-management. Some Developers use questions, some will be more discussion based. 
+DS is not for assigning Tasks/Time doesnot vary based on team size/ not an opporunity to discuss and resolve impediments/  Developer doesnot need to answer the three questions 
+Identify and address any obstacles, and improve communication and collaboration among the Developers
+
+
+
+Here is an example of what might be used:
+The Developers uses the Daily Scrum to review progress toward the Sprint Goal, update the Sprint Backlog and inspect how progress is trending toward completing the work in the Sprint Backlog.
+Daily Scrums improve communications, eliminate other meetings, identify impediments to development for removal, highlight and promote quick decision-making, and improve the Developers level of knowledge.
+This is a key inspect and adapt meeting.
+There may be some negative impacts that arise when the Scrum Team disregards one or more of the elements of the Daily Scrum that may include-
+o It may turn out be a status update meeting. 
+o Team may not be able to assess their progress towards the Sprint Goal .  
+o Team may lose one of the opportunities to talk about the risks/impediments, inspect 
+and synch up every day

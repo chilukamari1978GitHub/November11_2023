@@ -1,0 +1,55 @@
+The Definition of Done is a formal description of the state of the Increment when it meets the quality measures required for the product. 
+The moment a Product Backlog item meets the Definition of Done, an Increment is born.
+The Definition of Done creates transparency by providing everyone a shared understanding of what work was completed as part of the Increment. 
+Work cannot be considered part of an Increment unless it meets the DOD
+
+
+If a Product Backlog item does not meet the Definition of Done, it cannot be released or even presented at the Sprint Review. 
+Instead, it returns to the Product Backlog for future consideration. 
+If the Definition of Done for an increment is part of the standards of the organization, all Scrum Teams must follow it as a minimum.
+If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriate for the product. 
+The Developers are required to conform to the Definition of Done. If there are multiple Scrum Teams working together on a product, they must mutually define and comply with the same Definition of Done.
+
+
+
+Question 22: Skipped
+Why should a Product Owner care about the Developers adhering to the Definition of Done? (choose the best two options)
+
+
+Explanation
+Scrum Team members must have a shared understanding of what it means for work to be complete (Definition of done), to ensure transparency. This is the Definition of Done for the Scrum Team and is used to assess when work is complete on the product Increment. It also controls the total cost of ownership of the product.
+a. Everything in the Increment must be Done; i.e., 100% DONE! 
+If an PBI is not done, we won't include it in the Increment and send it back to the Product Backlog for future consideration.
+b. The Increment contains only 100% DONE items.
+c. We only present the Increment, and the Increment contains only the DONE items.
+d. The Increment contains only 100% DONE items
+The Definition of Done is a formal description of the state of the Increment when it meets the quality measures required for the product.
+The Developers are required to conform to the Definition of Done. 
+The Definition of Done is state of the Increment when it meets the quality measures required for the product.
+The moment a Product Backlog item meets the Definition of Done, an Increment is born. DoD - define the quality of the increment for the production release/potentially shippable state
+The Definition of Done creates transparency by providing everyone a shared understanding of what work was completed as part of the Increment. 
+If the Definition of Done for an increment is part of the standards of the organization, all Scrum Teams must follow it as a minimum. 
+If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriate for the product.
+If there are multiple Scrum Teams working together on a product, they must mutually define and comply with the same Definition of Done.
+the increment should be in functional state and align with ST criteria for being "done" (as per their DoD)
+Once DoD is defined, it can never change == FALSE
+
+
+Question 60: Skipped
+How should multiple Scrum Teams, working on the same product, manage their Definition of Done?
+
+Explanation
+The Definition of Done is a formal description of the state of the Increment when it meets the quality measures required for the product.
+
+The moment a Product Backlog item meets the Definition of Done, an Increment is born.
+
+The Definition of Done creates transparency by providing everyone a shared understanding of what work was completed as part of the Increment. If a Product Backlog item does not meet the Definition of Done, it cannot be released or even presented at the Sprint Review. Instead, it returns to the Product Backlog for future consideration.
+
+If the Definition of Done for an increment is part of the standards of the organization, all Scrum Teams must follow it as a minimum. If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriate for the product.
+
+The Developers are required to conform to the Definition of Done. If there are multiple Scrum Teams working together on a product, they must mutually define and comply with the same Definition of Done.
+
+
+
+A done Increment is valuable - Key Value Measure if
+ current value (CV), Time-to-Market (T2M), Ability to Innovate (A2I) and Unrealized Value (UV). Operational cost reduction and customer satisfaction are part of current value, 
