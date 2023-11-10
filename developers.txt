@@ -1,0 +1,51 @@
+All work to be done by the Developers must ultimately originate from the Product Backlog? = True
+Who has final say over changes to the sprint backlog during a sprint= DEV
+
+The Developers are only allowed to work with stakeholders during the Sprint Review (False) ---The Scrum Team and its stakeholders agree to be open about all the work and the challenges with performing the work.
+
+
+Developers are the people in the Scrum Team that are committed to creating any aspect of a usable Increment each Sprint. 
+The Developers consists of professionals who do the work of delivering a potentially releasable Increment of “Done” product at the end of each Sprint.
+
+The specific skills needed by the Developers are often broad and will vary with the domain of work. 
+Developers are always accountable for:
+● Creating a plan for the Sprint, the Sprint Backlog;
+● Instilling quality by adhering to a Definition of Done;
+● Adapting their plan each day toward the Sprint Goal; and,
+● Holding each other accountable as professionals.
+
+Developers have the following characteristics: 
+- They are self-managing. They are empowered to manage, organize their own work and decide how to turn Product Backlog into Increments of potentially usable
+functionality 
+- Developers are cross-functional, with all the skills as a team necessary to create a product Increment
+- Scrum recognizes no titles for Developers, regardless of the work being performed by the person 
+
+Accountabilities/ Responsibilities -
+o Collaborate with the product owner to understand the functionality
+o Determine how to build the increment
+o Deliver a potentially releasable and a usable increment
+o Work with the Product Owner in refining the Product Backlog
+o Own the Sprint Backlog and keep it transparent
+o Plan, execute and deliver the work of the Sprint
+o Be transparent about the state of the work
+o Track and manage progress during the sprint
+o Apply good technical practices
+o Relentless improvement through inspect and adapt cycles
+o Identify and eliminate technical debt
+
+
+Cross-functional team- The Developers are cross-functional with all the skills required to build the product increment without depending on others.
+They do all the work necessaryto guarantee that the increment of product is in a usable state no later than by the end of the sprint and is in a releasable state. 
+Cross-functionality encourages teams to overcome silos of traditional disciplines, learn more and be more robust to handle unexpected changes.
+It is the team’s prerogative to define their own commitments, individual task assignment, produce quality work, provide their own estimates, sign up for work rather than be assigned work.
+
+The Product owner is the appropriate role to offer work to the Developers because this person is a business-facing person is empowered to fill the role and understand the market,product, business priorities and any constraints involved.
+
+
+Question 17: Skipped
+In the middle of the Sprint, a Developers find that they have more room for additional work. They decide to change the Sprint Backlog by adding a few more Backlog Items from the Product Backlog. Who should be present to decide the additional work and accordingly modify the Sprint Backlog?
+
+
+Explanation
+Only the Developers of the Scrum Team can make changes to the Sprint Backlog and it is the Product Owner's job to optimize the value of their work and they are needed to explain the content of the Product Backlog and give mutual consent on the next work.
+

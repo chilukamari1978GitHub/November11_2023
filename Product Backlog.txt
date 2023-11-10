@@ -1,0 +1,57 @@
+
+The Product Backlog is an emergent/living artificat, ordered list of what is needed to improve the product. It is the single source of work/requirements undertaken by the Scrum Team. 
+Product Backlog items that can be Done by the Scrum Team within one Sprint are deemed ready for selection in a Sprint Planning event. They usually acquire this degree of transparency after refining activities. 
+Product Backlog refinement is the act of breaking down and further defining Product Backlog items into smaller more precise items. This is an ongoing activity to add details, such as a description, order, and size. Attributes often vary with the domain of work.
+
+The Developers who will be doing the work are responsible for the sizing. The Product Owner may influence the Developers by helping them understand and select trade-offs. 
+Commitment: Product Goal
+The Product Goal describes a future state of the product which can serve as a target for the Scrum Team to plan against. The Product Goal is in the Product Backlog. The rest of the Product Backlog emerges to define “what” will fulfill the Product Goal. 
+A product is a vehicle to deliver value. It has a clear boundary, known stakeholders, well-defined users or customers. A product could be a service, a physical product, or something more abstract. 
+The Product Goal is the future state of product long-term objective for the Scrum Team. They must fulfill (or abandon) one objective before taking on the next
+
+The Product Owner is responsible for the Product Backlog including its content, availability and ordering. The Product Owner keeps it up to date to reflect the emerging requirements, market demand, customers and stakeholder’s feedback.  Anyone can add items to the Product Backlog;however, the Product Owner prioritizes and orders the Product Backlog.
+The Product Backlog lists all features, functions, requirements, enhancements, and fixes that constitute the changes to be made to the product in future releases. 
+
+A Product Backlog is never complete. The earliest development of it lays out the initially known and best-understood requirements. The Product Backlog evolves as the product and the environment in which it will be used evolves. The Product Backlog is dynamic, it constantly changes to identify what the product needs to be appropriate, competitive, and useful. If a product exists, its Product Backlog also exists.Each item in a Product Backlog is called as a Product Backlog item (PBI). Each PBI should be 
+described in just enough detail.
+
+
+A product is a vehicle to deliver value. It has a clear boundary, known stakeholders, welldefined users or customers. A product could be a service, a physical product, or something more abstract.
+The Product Goal is the long-term objective for the Scrum Team. They must fulfill (or abandon) one objective before taking on the next.
+
+
+Each Product Backlog item has attributes of
+- description, 
+- order, 
+- value and
+- estimate. 
+Guiding Principles of a Product Backlog: 
+
+
+Mike Cohn’s acronym DEEP
+Detailed Appropriately -
+-
+Estimated -
+-
+Emergent -
+-
+Prioritized -
+
+
+
+Question 59: Skipped
+The Scrum Framework encourages long Sprints to achieve large increments with as many Product Backlog Items as possible.
+
+
+
+Explanation
+" When a Sprint’s horizon is too long the Sprint Goal may become invalid, complexity may rise, and risk may increase. Shorter Sprints can be employed to generate more learning cycles and limit risk of cost and effort to a smaller time frame. Each Sprint may be considered a short project. "
+
+Question 94: Skipped
+How should the Product Backlog be ordered?
+Most valuable and most refined @top
+
+
+The Product Goal describes a future state of the product which can serve as a target for the Scrum Team to plan against. The Product Goal is in the Product Backlog. The rest of the Product Backlog emerges to define “what” will fulfill the Product Goal.
+
+
