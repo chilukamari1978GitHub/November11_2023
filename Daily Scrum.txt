@@ -1,4 +1,4 @@
-
+Mooodified
 The purpose of the Daily Scrum is to inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary, adjusting the upcoming planned work.
 The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. Daily Scrum is time boxed so that focus is on the current day, it is not a status report meeting. 
 To reduce complexity, it is held at the same time and place every working day of the Sprint. 
